@@ -1,0 +1,20 @@
+﻿  jsoncpp.cpp
+  Persona.cpp
+  ProyectoVida.cpp
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(16,31): warning C4081: se esperaba ')'; se encontró 'newline'
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(63,31): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(69,31): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(75,33): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(81,33): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(95,29): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(159,32): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(279,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(637,62): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(639,62): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(640,60): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(3734,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(658,1): warning C4715: 'pruebaservidor': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(920,1): warning C4715: 'cliente': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\ProyectoVida\ProyectoVida.cpp(410,1): warning C4715: 'cargadabinario': no todas las rutas de acceso de control devuelven un valor
+  ProyectoVida.vcxproj -> C:\Users\Admin\Desktop\Proyectos\Hard skills\Proyecto de Vida\ProyectoVidaJordan\x64\Debug\ProyectoVida.exe

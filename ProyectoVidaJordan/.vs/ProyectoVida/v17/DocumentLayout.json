@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7D868-AAB6-4F7A-BF10-2781A29A16D3}|ProyectoVida\\ProyectoVida.vcxproj|C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\ProyectoVida.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BF7D868-AAB6-4F7A-BF10-2781A29A16D3}|ProyectoVida\\ProyectoVida.vcxproj|solutionrelative:ProyectoVida\\ProyectoVida.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF7D868-AAB6-4F7A-BF10-2781A29A16D3}|ProyectoVida\\ProyectoVida.vcxproj|C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BF7D868-AAB6-4F7A-BF10-2781A29A16D3}|ProyectoVida\\ProyectoVida.vcxproj|solutionrelative:ProyectoVida\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProyectoVida.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\ProyectoVida.cpp",
+              "RelativeDocumentMoniker": "ProyectoVida\\ProyectoVida.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\ProyectoVida.cpp",
+              "RelativeToolTip": "ProyectoVida\\ProyectoVida.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T14:13:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\Persona.cpp",
+              "RelativeDocumentMoniker": "ProyectoVida\\Persona.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Proyectos\\Hard skills\\Proyecto de Vida\\ProyectoVidaJordan\\ProyectoVida\\Persona.cpp",
+              "RelativeToolTip": "ProyectoVida\\Persona.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T14:13:32.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
