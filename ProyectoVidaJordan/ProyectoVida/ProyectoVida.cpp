@@ -1,3 +1,7 @@
+//(c) 2024 - Tiffany Andrea Jordán Uquillas
+//Este código está bajo la licencia CC BY-NC-SA 4.0.
+// No está permitido su uso comercial.
+
 #include <iostream>
 #include "Persona.cpp"
 #include <cstdlib>
@@ -222,7 +226,7 @@ int cargadabinario() {
                 int nombre1Length;
                 inputFile.read(reinterpret_cast<char*>(&nombre1Length), sizeof(nombre1Length));
 
-                char* nombreBuffer = new char[nombre1Length + 1]; // +1 para el car�cter nulo
+                char* nombreBuffer = new char[nombre1Length + 1]; // +1 para el carácter nulo
                 inputFile.read(nombreBuffer, nombre1Length);
                 nombreBuffer[nombre1Length] = '\0';
                 cosos[i].setNombre1(string(nombreBuffer));
@@ -233,7 +237,7 @@ int cargadabinario() {
                 int nombre2Length;
                 inputFile.read(reinterpret_cast<char*>(&nombre2Length), sizeof(nombre2Length));
 
-                char* nombreBuffer1 = new char[nombre2Length + 1]; // +1 para el car�cter nulo
+                char* nombreBuffer1 = new char[nombre2Length + 1]; // +1 para el carácter nulo
                 inputFile.read(nombreBuffer1, nombre2Length);
                 nombreBuffer1[nombre2Length] = '\0';
                 cosos[i].setNombre2(string(nombreBuffer1));
@@ -244,7 +248,7 @@ int cargadabinario() {
                 int apellido1Length;
                 inputFile.read(reinterpret_cast<char*>(&apellido1Length), sizeof(apellido1Length));
 
-                char* nombreBuffer2 = new char[apellido1Length + 1]; // +1 para el car�cter nulo
+                char* nombreBuffer2 = new char[apellido1Length + 1]; // +1 para el carácter nulo
                 inputFile.read(nombreBuffer2, apellido1Length);
                 nombreBuffer2[apellido1Length] = '\0';
                 cosos[i].setApellido1(string(nombreBuffer2));
@@ -256,7 +260,7 @@ int cargadabinario() {
                 int apellido2Length;
                 inputFile.read(reinterpret_cast<char*>(&apellido2Length), sizeof(apellido2Length));
 
-                char* nombreBuffer3 = new char[apellido2Length + 1]; // +1 para el car�cter nulo
+                char* nombreBuffer3 = new char[apellido2Length + 1]; // +1 para el carácter nulo
                 inputFile.read(nombreBuffer3, apellido2Length);
                 nombreBuffer3[apellido2Length] = '\0';
                 cosos[i].setApellido2(string(nombreBuffer3));
@@ -357,7 +361,7 @@ int cargadabinario() {
                 int posicionLength;
                 inputFile.read(reinterpret_cast<char*>(&posicionLength), sizeof(posicionLength));
 
-                char* nombreBuffer4 = new char[posicionLength + 1]; // +1 para el car�cter nulo
+                char* nombreBuffer4 = new char[posicionLength + 1]; // +1 para el carácter nulo
                 inputFile.read(nombreBuffer4, posicionLength);
                 nombreBuffer4[posicionLength] = '\0';
                 cosos[i].setPosicion(string(nombreBuffer4));
@@ -1095,7 +1099,7 @@ void creacionhijo(int familia, int indiceM, int indiceH) {
         objpersona.setCodigo(contador);
         objpersona.setFamilia(familia);
         objpersona.setEdad(1);
-        objpersona.setSueldo(0); //sueldo 0 porque es un ni�o
+        objpersona.setSueldo(0); //sueldo 0 porque es un niño
         objpersona.setTrabaja(0);
         objpersona.setRevivido(0);
         objpersona.setDesaparece(0);
@@ -1516,7 +1520,7 @@ void lucha() {
 void tiempo() {
     //aumenta la edad 1 
     muertosedad = 0;
-    gotoxy(45, 19); cout << "Cuantos a�os desea adelantar (max 60)?";
+    gotoxy(45, 19); cout << "Cuantos años desea adelantar (max 60)?";
     gotoxy(45, 20); cin >> respuesta;
 
     while (respuesta > 60) {
