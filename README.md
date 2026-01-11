@@ -135,7 +135,6 @@ Desarrollado como práctica académica de simulación, estructuras de datos y pr
 
 ## 📝 Licencia
 
-Este proyecto se publica con fines **educativos y personales**.  
-Puede ser utilizado, modificado o ampliado siempre que se cite la autoría original.
+Este proyecto está creado por la autora mencionada y protegido bajo la licencia CC BY-NC-SA 4.0.
 
 ---
