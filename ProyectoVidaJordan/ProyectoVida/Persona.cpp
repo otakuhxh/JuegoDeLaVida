@@ -1,3 +1,7 @@
+//(c) 2024 - Tiffany Andrea Jordán Uquillas
+//Este código está bajo la licencia CC BY-NC-SA 4.0.
+// No está permitido su uso comercial.
+
 #include <iostream>
 #include <string>
 
